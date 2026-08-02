@@ -34,4 +34,4 @@ The platform is planned as a modular monolith with independently runnable web, A
 
 ## Project status
 
-ItemFoundry is currently in the planning and initial scaffolding phase. See the [product and delivery plan](./PRODUCT_PLAN.md) for the domain model, architecture, security model, evaluation strategy, and implementation iterations.
+ItemFoundry is currently in the planning and initial scaffolding phase. See the [product and delivery plan](./Docs/PRODUCT_PLAN.md) for the domain model, architecture, security model, evaluation strategy, and implementation iterations.
